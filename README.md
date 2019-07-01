@@ -1,13 +1,13 @@
 # Learning Challenge - Season 2
 
 ## Learning Topics:
-Basic Python
-Advanced Python
-Flask 
-SQLite
-Mysql
-Docker
-Kubernetes
+- Basic Python
+- Advanced Python
+- Flask 
+- SQLite
+- Mysql
+- Docker
+- Kubernetes
 
 ## Rules:
 - We will find a learning partner for you
