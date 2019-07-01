@@ -25,5 +25,6 @@
 
 # My Daily learning: (Sample)
 
-## July 1
+## July 1 - REQUIREMENTS INSTALLATION
 -Installed MySQL for Windows 10 (64 bit) from https://dev.mysql.com/downloads/file/?id=486089
+-Installed Visual Basic 2017(manual requirement) from https://www.techspot.com/downloads/6278-visual-studio.html to complete the installation of MySQL
