@@ -23,7 +23,7 @@
 	- Validator check
 
 
-My Daily learning: (Sample)
+# My Daily learning: (Sample)
 
 ## July 1
 - I have learend list and tuple in Pyhton using this tutorial: https://www.afternerd.com/blog/difference-between-list-tuple/
