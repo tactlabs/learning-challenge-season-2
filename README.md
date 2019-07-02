@@ -27,4 +27,11 @@
 
 ## July 1 - REQUIREMENTS INSTALLATION
 -Installed MySQL for Windows 10 (64 bit) from https://dev.mysql.com/downloads/file/?id=486089 <br>
--Installed Visual Basic 2017(manual requirement) from https://www.techspot.com/downloads/6278-visual-studio.html to complete the installation of MySQL <br>
+-Installed Visual Basic 2017(manual requirement) from https://www.techspot.com/downloads/6278-visual-studio.html to complete the installation of MySQL <br><br>
+
+## July 2 - Python - WarmUps
+-Created python programs to implement simple Functions:<br>
+&nbsp;&nbsp;&nbsp;**Recursion**  <br>
+&nbsp;&nbsp;&nbsp;**Fibonacci**  <br>
+&nbsp;&nbsp;&nbsp;**Selection sorting**  <br>
+
