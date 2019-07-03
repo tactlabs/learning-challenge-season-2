@@ -13,5 +13,5 @@ def fibonacci(n) :
     #If n is '0', you should return only '0'
     if(n == 0) :
         terms = [0]
-    #Returns the fibonacci series of 'n' terms as an array
+    #Returns the fibonacci series of 'n' terms as a list
     return terms
