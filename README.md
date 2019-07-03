@@ -33,5 +33,13 @@
 -Created python programs to implement simple Functions:<br>
 &nbsp;&nbsp;&nbsp;**Recursion**  <br>
 &nbsp;&nbsp;&nbsp;**Fibonacci**  <br>
-&nbsp;&nbsp;&nbsp;**Selection sorting**  <br>
+&nbsp;&nbsp;&nbsp;**Selection sorting**  <br><br>
+
+## July 3 - Python - WarmUps(2) and SQLite3 - Basics
+-Added a .py file involving basic **datetime** operations <br>
+-Installed **SQLite3** from https://www.sqlite.org/index.html <br>
+-Created a SQLite database file storing details of **Students** - schooltest.db <br>
+-Created a SQLite database file storing details of **Books** - library.db <br>
+-Wrote **db_connection.py** to perform basic sql operations on **schooltest.db**  <br>
+-Wrote **libsale.py** to calculate price of books from informaton on **library.db**  <br><br>
 
