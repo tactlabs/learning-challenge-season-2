@@ -23,7 +23,7 @@
 	- Validator check
 
 
-# My Daily learning: (Sample)
+# My Daily learning:
 
 ## July 1 - REQUIREMENTS INSTALLATION
 -Installed MySQL for Windows 10 (64 bit) from https://dev.mysql.com/downloads/file/?id=486089 <br>
@@ -43,3 +43,6 @@
 -Wrote **db_connection.py** to perform basic sql operations on **schooltest.db**  <br>
 -Wrote **libsale.py** to calculate price of books from informaton on **library.db**  <br><br>
 
+## July 4 - Python - Lists and Strings
+-Added a .py file involving basic **List** operations <br>
+-Added a .py file creating **dynamic lists** and sorted the list <br>
