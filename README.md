@@ -44,8 +44,9 @@
 -Wrote **libsale.py** to calculate price of books from informaton on **library.db**  <br><br>
 
 ## July 4 - Python - List, String, Class, Dictionary
--Added a .py file involving basic **List** operations <br>
--Added a .py file creating a **dynamic list** and sorted the list <br>
--Added a .py file and performed basic **String manipulations** <br>
--Added a .py file performing **Inheritace of classes** and done some manipulations with the classes <br>
--Added a .py file performing basic operations on **Dictionaries**
+-Added **list_functions.py** file involving basic **List** operations <br>
+-Added **dynamic_list.py** file creating a **dynamic list** and sorted the list <br>
+-Added **Strings.py** file and performed basic **String manipulations** <br>
+-Added **Inheritance.py** file performing **Inheritace of classes** and done some manipulations with the classes <br>
+-Added **Dictionaries.py** file performing basic operations on **Dictionaries** <br>
+-Added **Calculator.py** file to perform **basic arithmetic calculations**(recursively until user chooses to stop) <br><br>
