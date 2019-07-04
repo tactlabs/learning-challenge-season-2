@@ -45,4 +45,5 @@
 
 ## July 4 - Python - Lists and Strings
 -Added a .py file involving basic **List** operations <br>
--Added a .py file creating **dynamic lists** and sorted the list <br>
+-Added a .py file creating a **dynamic list** and sorted the list <br>
+-Added a .py file and performed basic **String manipulations**<br>
