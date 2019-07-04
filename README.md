@@ -29,13 +29,13 @@
 -Installed MySQL for Windows 10 (64 bit) from https://dev.mysql.com/downloads/file/?id=486089 <br>
 -Installed Visual Basic 2017(manual requirement) from https://www.techspot.com/downloads/6278-visual-studio.html to complete the installation of MySQL <br><br>
 
-## July 2 - Python - WarmUps
+## July 2 - Python - Function
 -Created python programs to implement simple Functions:<br>
 &nbsp;&nbsp;&nbsp;**Recursion**  <br>
 &nbsp;&nbsp;&nbsp;**Fibonacci**  <br>
 &nbsp;&nbsp;&nbsp;**Selection sorting**  <br><br>
 
-## July 3 - Python - WarmUps(2) and SQLite3 - Basics
+## July 3 - Python - Datetime and SQLite3 - Basics
 -Added a .py file involving basic **datetime** operations <br>
 -Installed **SQLite3** from https://www.sqlite.org/index.html <br>
 -Created a SQLite database file storing details of **Students** - schooltest.db <br>
@@ -43,8 +43,9 @@
 -Wrote **db_connection.py** to perform basic sql operations on **schooltest.db**  <br>
 -Wrote **libsale.py** to calculate price of books from informaton on **library.db**  <br><br>
 
-## July 4 - Python - Lists, Strings, Classes
+## July 4 - Python - List, String, Class, Dictionary
 -Added a .py file involving basic **List** operations <br>
 -Added a .py file creating a **dynamic list** and sorted the list <br>
--Added a .py file and performed basic **String manipulations**<br>
--Added a .py file performing **Inheritace of classes** and done some manipulations with the classes
+-Added a .py file and performed basic **String manipulations** <br>
+-Added a .py file performing **Inheritace of classes** and done some manipulations with the classes <br>
+-Added a .py file performing basic operations on **Dictionaries**
