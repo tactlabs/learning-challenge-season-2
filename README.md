@@ -48,3 +48,4 @@
 -Added a .py file creating a **dynamic list** and sorted the list <br>
 -Added a .py file and performed basic **String manipulations**<br>
 -Added a .py file performing **Inheritace of classes** and done some manipulations with the classes
+-Added a .py file performing basic operations on **Dictionaries**
