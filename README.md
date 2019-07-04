@@ -43,7 +43,8 @@
 -Wrote **db_connection.py** to perform basic sql operations on **schooltest.db**  <br>
 -Wrote **libsale.py** to calculate price of books from informaton on **library.db**  <br><br>
 
-## July 4 - Python - Lists and Strings
+## July 4 - Python - Lists, Strings, Classes
 -Added a .py file involving basic **List** operations <br>
 -Added a .py file creating a **dynamic list** and sorted the list <br>
 -Added a .py file and performed basic **String manipulations**<br>
+-Added a .py file performing **Inheritace of classes** and done some manipulations with the classes
