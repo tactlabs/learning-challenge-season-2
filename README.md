@@ -29,13 +29,13 @@
 -Installed MySQL for Windows 10 (64 bit) from https://dev.mysql.com/downloads/file/?id=486089 <br>
 -Installed Visual Basic 2017(manual requirement) from https://www.techspot.com/downloads/6278-visual-studio.html to complete the installation of MySQL <br><br>
 
-## July 2 - Python - WarmUps
+## July 2 - Python - Functions
 -Created python programs to implement simple Functions:<br>
 &nbsp;&nbsp;&nbsp;**Recursion**  <br>
 &nbsp;&nbsp;&nbsp;**Fibonacci**  <br>
 &nbsp;&nbsp;&nbsp;**Selection sorting**  <br><br>
 
-## July 3 - Python - WarmUps(2) and SQLite3 - Basics
+## July 3 - Python - Datetime and SQLite3 - Basics
 -Added a .py file involving basic **datetime** operations <br>
 -Installed **SQLite3** from https://www.sqlite.org/index.html <br>
 -Created a SQLite database file storing details of **Students** - schooltest.db <br>
