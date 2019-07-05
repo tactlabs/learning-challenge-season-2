@@ -32,8 +32,8 @@ for x in mycursor:
     #Method 2 -> To confirm database is created successfully
 mydb = mysql.connector.connect(
   host="localhost",
-  user="root",
-  passwd="Fanatic@7",
+  user="# Your username #",
+  passwd="# Your Password #"
   #If Database creation is succcessful, No error shows up
   database=DB_Name
 )
