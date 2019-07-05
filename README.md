@@ -51,6 +51,7 @@
 -Added **Dictionaries.py** file performing basic operations on **Dictionaries** <br>
 -Added **Calculator.py** file to perform **basic arithmetic calculations**(recursively until user chooses to stop) <br><br>
 
-## July 5 - Python - Basic Problems
+## July 5 - Python - Basic Problems and MySQL - Basics
 -Added **Palindrome.py** to check whether string is **palindrome or not** <br>
 -Added **Multiplication_table.py** to display **multiplication table of any number** <br>
+-Added **DB_Connection.py** to create a **connection, database and a sample table** <br><br>
