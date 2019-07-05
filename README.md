@@ -50,3 +50,7 @@
 -Added **Inheritance.py** file performing **Inheritace of classes** and done some manipulations with the classes <br>
 -Added **Dictionaries.py** file performing basic operations on **Dictionaries** <br>
 -Added **Calculator.py** file to perform **basic arithmetic calculations**(recursively until user chooses to stop) <br><br>
+
+## July 5 - Python - Basic Problems
+-Added **Palindrome.py** to check whether string is **palindrome or not** <br>
+-Added **Multiplication_table.py** to display **multiplication table of any number** <br>
