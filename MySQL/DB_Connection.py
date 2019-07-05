@@ -6,8 +6,8 @@ import mysql.connector
 #Creating a connection
 mydb = mysql.connector.connect(
   host="localhost",
-  user="root",
-  passwd="Fanatic@7"
+  user="# Your username #",
+  passwd="# Your Password #"
 )
 print(mydb)
 
