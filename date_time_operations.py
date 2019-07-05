@@ -25,6 +25,18 @@ birthdate = datetime.datetime.strptime(birthstr,'%d/%m/%Y').date()
 diff = birthdate - present
 print("You have still {} days left for your birthday" .format(diff.days)) #since we need only no of days and not time
 
+#To dispaly Calendar
+    #Package needed to work with Calendars
+import calendar  
+# Enter the month and year
+print("\nCALENDAR DISPLAY")
+year = int(input("Enter year: "))  
+month = int(input("Enter month: "))  
+  
+# display the calendar
+print("\n")
+print(calendar.month(year,month))
+
 #-------------------------------------------------------------------------------
 
 #already datetime has been imported
