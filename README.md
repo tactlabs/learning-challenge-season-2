@@ -54,4 +54,6 @@
 ## July 5 - Python - Basic Problems and MySQL - Basics
 -Added **Palindrome.py** to check whether string is **palindrome or not** <br>
 -Added **Multiplication_table.py** to display **multiplication table of any number** <br>
--Added **DB_Connection.py** to create a **connection, database and a sample table** <br><br>
+-Added **DB_Connection.py** to create a **connection, database and a sample table** <br>
+-Added **File_Basics.py** file performing basic **File manipulations** <br>
+-Added **Sample.txt** file for file operations illustration purpose <br><br>
