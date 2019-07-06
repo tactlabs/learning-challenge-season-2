@@ -62,3 +62,4 @@
 -Added **MySQL_Insert.py** to **insert values** into a table <br>
 -Added **Sample_Class.py** to **create a sample class and objects for the class** <br>
 -Added **Sets.py** to perform **basic operations on Sets** <br>
+-Added **Func_Module.py** to implement **Modules concept** by using fibonacci.py and factorial.py as modules
