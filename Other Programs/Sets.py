@@ -1,8 +1,8 @@
-###Sets remove duplicates
-##Text = input("Enter a statement(with some redundant words of same case)")
-##    #Splitting individual words and removing redundant words
-##Text = (set(Text.split()))
-##print(Text)
+#Sets remove duplicates
+Text = input("Enter a statement(with some redundant words of same case)")
+    #Splitting the statement into individual words and removing redundant words
+Text = (set(Text.split()))
+print(Text)
 
 
 #Creating 2 sets
