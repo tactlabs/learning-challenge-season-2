@@ -57,3 +57,7 @@
 -Added **DB_Connection.py** to create a **connection, database and a sample table in MySQL** <br>
 -Added **File_Basics.py** file performing basic **File manipulations** <br>
 -Added **Sample.txt** file for file operations illustration purpose <br><br>
+
+## July 6 - Python - Classes, MySQL- CRUD
+-Added **MySQL_Insert.py** to **insert values** into a table <br>
+-Added **Sample_Class.py** to **create a sample class and objects for the class** <br>
