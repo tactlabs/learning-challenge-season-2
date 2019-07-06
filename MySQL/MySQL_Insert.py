@@ -6,8 +6,8 @@ import mysql.connector
 DB_Name = input("Enter the database name : ")
 mydb = mysql.connector.connect(
   host="localhost",
-  user="root",
-  passwd="Fanatic@7",
+  user="# Your username #",
+  passwd="# Your password #",
   database=DB_Name
 )
 
