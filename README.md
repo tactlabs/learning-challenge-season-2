@@ -58,7 +58,8 @@
 -Added **File_Basics.py** file performing basic **File manipulations** <br>
 -Added **Sample.txt** file for file operations illustration purpose <br><br>
 
-## July 6 - Python - Classes, Sets, MySQL- CRUD
+## July 6 - Python - Classes, Sets, Modules and MySQL- CRUD
 -Added **MySQL_Insert.py** to **insert values** into a table <br>
 -Added **Sample_Class.py** to **create a sample class and objects for the class** <br>
 -Added **Sets.py** to perform **basic operations on Sets** <br>
+-Added **Func_Module.py** to implement **Modules concept** by using fibonacci.py and factorial.py as modules
