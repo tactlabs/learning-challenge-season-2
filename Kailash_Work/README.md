@@ -64,6 +64,7 @@
 -Added **Sets.py** to perform **basic operations on Sets** <br><br>
 
 ## July 7 - Preparing repository for merging
+-Added **Lambda_Basics.py** to explain about **Lambda functions**<br>
 -Renamed certain folders to satisfy naming conventions <br>
 -Moved all files and folders under one common folder **Kailash_Work** <br>
 
